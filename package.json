@@ -21,7 +21,6 @@
     "wait-on": "2.1.0"
   },
   "build": {
-    "extends": null,
     "productName": "cra-electron-min-pack",
     "appId": "com.example.app",
     "electronVersion": "2.0.7"
